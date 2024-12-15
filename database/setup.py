@@ -1,3 +1,5 @@
+# /database/setup.py
+
 from .connection import get_db_connection
 
 def create_tables():
